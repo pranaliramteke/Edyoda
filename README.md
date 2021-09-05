@@ -1,2 +1,3 @@
 # Edyoda
-This repository contains Edyoda assignments.
+This repository contains Edyoda assignment no.1
+
